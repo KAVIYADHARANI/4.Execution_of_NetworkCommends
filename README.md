@@ -1,4 +1,11 @@
 # 4.Execution_of_NetworkCommands
+
+NAME: KAVIYA D
+
+
+REGISTER NUMBER : 212223040089
+
+
 ## AIM :
  Use of Network commands in Real Time environment
 ## Software : 
